@@ -101,7 +101,7 @@
       $container-spread,
       $validate: false
     );
-    @return percentage(calc($span-width / $container));
+    @return percentage($span-width / $container);
   }
 
   @return $span-width;
@@ -153,7 +153,7 @@
   }
 
   $container: _su-sum($columns, $gutters, $container-spread);
-  @return percentage(calc($gutters / $container));
+  @return percentage($gutters / $container);
 }
 
 // Su Slice
