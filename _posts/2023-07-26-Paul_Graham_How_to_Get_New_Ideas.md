@@ -1,5 +1,5 @@
 ---
-title: "폴 그래이엄 - 새로운 아이디어를 찾는 법"
+title: "폴 그레이엄 - 새로운 아이디어를 찾는 법"
 toc: true
 categories:
   - biz
