@@ -14,6 +14,15 @@ Microsoft Excel은 1985년부터 오랫동안 사랑받아온 소프트웨어이
 스프레드시트는 사용자에게 일종의 초능력을 부여한다.
 이러한 초능력으로 사용자는 도메인 영역에 제한 없이 문제를 해결할 수 있다.
 
+{% capture fig_img %}
+![Excel History]({{ "/assets/images/2023-07/Microsoft-Excel-Logo-history.webp" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>https://studentwork.prattsi.org/infovis/labs/the-history-of-microsoft-excel</figcaption>
+</figure>
+
 미래의 B2B 소프트웨어 시장을 예측하고 싶다면 오늘날에 사용자들이 엑셀 유저들이 어떻게 스프레드시트를 활용하는지를 보면 된다.
 
 엑셀은 두가지 방식으로 B2B 산업에 방대한 로드맵을 만들어왔다.
@@ -67,6 +76,15 @@ Excel은 풀 스택 프로그래밍 언어다.
 엑셀의 2D 그리드 구조는 인간이 본래 사용하던 계층 구조와 같은 데이터 모델 을 표현하기 어렵다.
 
 ## 노코드와 엑셀 언번들링
+
+{% capture fig_img %}
+![Excel Unbundling]({{ "/assets/images/2023-07/Spreadsheet-Unbundling.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/.</figcaption>
+</figure>
 
 CRM 소프트웨어는 데이터베이스와 비슷하다.
 거의 모든 소프트웨어가 엑셀을 언번들링하고 있다.

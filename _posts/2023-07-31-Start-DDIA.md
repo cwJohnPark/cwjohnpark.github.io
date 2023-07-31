@@ -10,12 +10,10 @@ tags:
   - backend
 ---
 
-# "데이터 중심의 애플리케이션 설계" 읽기를 시작하며
-
-![DDIA Book Cover]({{ "/assets/images/2023-07/ddia-bookcover.png" | relative_url }}){: .align-center }
-
 \<데이터 중심의 애플리케이션 설계\>는 데이터 시스템의 근간이 되는 트레이드오프와 다양한 원리들을 다룬다.
 다양한 프로덕트에서 접목할 수 있는 다양한 시스템 디자인들을 탐구해볼 수 있는 명저이다.
+
+![DDIA Book Cover]({{ "/assets/images/2023-07/ddia-bookcover.png" | relative_url }}){: .align-center }
 
 저자는 "NoSQL", "빅데이터", "웹스케일" "샤딩", "ACID", "CAP 이론"라는 단어처럼 유행어(buzzwords)에 매몰되지 말라는 말을 서두에서 전하고 있다. 이 책을 중간중간 읽다가보면 이런 단어가 본질적인 개념을 완전히 표현하지 못한다는 것을 알 수 있다.
 
