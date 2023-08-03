@@ -2,7 +2,7 @@
 title: "폴 그레이엄 - 새로운 아이디어를 찾는 법"
 toc: true
 categories:
-  - biz
+  - productivity
 ---
 
 새로운 아이디어를 얻는 방법 중 하나는 이상현상(anomalies)를 파악하는 것이다.

@@ -2,7 +2,7 @@
 title: "폴 그레이엄 - 똑똑한 것 그 이상"
 toc: true
 categories:
-  - biz
+  - productivity
 ---
 
 ## 똑똑한 것 그 이상
